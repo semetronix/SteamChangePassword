@@ -30,3 +30,7 @@ input — путь к txt файлу (по умолчанию logpass.txt).
 git clone https://github.com/semetronix/SteamChangePassword.git
 cd SteamChangePassword
 pip install -r requirements.txt
+```
+
+based on
+https://github.com/sometastycake/steam-password-change
